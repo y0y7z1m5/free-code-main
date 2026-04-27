@@ -1,3 +1,15 @@
+修改了 在.env填入:
+
+CLAUDE_CODE_USE_OPENAI=1
+OPENAI_BASE_URL=https://api.deepseek.com
+OPENAI_API_KEY=
+ANTHROPIC_MODEL=deepseek-chat
+ANTHROPIC_CUSTOM_MODEL_OPTION=deepseek-chat
+
+使用任意api
+
+
+
 <p align="center">
   <img src="assets/screenshot.png" alt="free-code" width="720" />
 </p>
